@@ -6,7 +6,7 @@
 
 ## What Is This?
 
-- Pairs Trader Live monitors crypto pairs that have had historic correlation (mathematically co-integration).
+- The script monitors crypto pairs that have had historic correlation (mathematically co-integration).
 - The algorithm detects statistical variations from these correlation norms, and measures this change with a rolling z-score. 
 - Once the Z-score metric exceeds a thresold the algorithm automatically executes mean-reversion trades on both legs simultaneously. It goes long one asset and short another when the spread deviates from its historical norm — then closes when the spread reverts.
 - There are layers of risk management to try mitigate occasions when the pair of crytocurrencies does not revert in a timly manner. 
