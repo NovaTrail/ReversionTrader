@@ -1,6 +1,6 @@
 # Reversion Trader
 
-**A  delta-neutral pairs trading bot for perpetual Crytocurrency contracts — with a live dashboard, multi-layer risk management, and zero local persistence.**
+**A  delta-neutral pairs trading bot for perpetual crytocurrency futures — with a live dashboard, multi-layer risk management, and zero local persistence.**
 
 ---
 ### SEE IT HERE 
