@@ -20,17 +20,6 @@
 
 ```
 
-### The Math (Quick Version)
-
-The engine uses **rolling OLS** to estimate the dynamic relationship between two assets over a 40-bar lookback window. Given log prices $Y$ and $X$:
-
-$$\text{spread}_t = Y_t - \beta_t \cdot X_t - \alpha_t$$
-
-The spread is then standardized into a z-score. When the z-score exceeds ±2.0, the spread is considered statistically extended and a trade is placed betting on reversion to the mean.
-
-The OLS is **vectorized** using cumulative sums — no per-window loops — so 500 bars across 8 symbols runs in milliseconds.
-
-
 ## Risk Management
 
 Risk is managed at three levels:
@@ -40,7 +29,7 @@ Risk is managed at three levels:
 ### 3. Account-Level Circuit Breaker
 ### 4. Pyramiding Entries a time cooldown between adds
 
-
+```
 ---
 
 ## Lessons Learned
