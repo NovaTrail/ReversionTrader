@@ -3,6 +3,11 @@
 **A  delta-neutral pairs trading bot for perpetual Crytocurrency contracts — with a live dashboard, multi-layer risk management, and zero local persistence.**
 
 ---
+### SEE IT HERE 
+
+[https://reversion-afab32929037.herokuapp.com/dashboard/]([https://reversion-afab32929037.herokuapp.com/dashboard/) 
+
+*Password for public viewing = public* 
 
 ## What Is This?
 
@@ -12,12 +17,6 @@
 - There are layers of risk management to try mitigate occasions when the pair of crytocurrencies does not revert in a timly manner. 
 
 ---
-
-### SEE IT HERE 
-
-[https://reversion-afab32929037.herokuapp.com/dashboard/]([https://reversion-afab32929037.herokuapp.com/dashboard/) 
-
-*Password for public viewing = public* 
 
 ```
 
