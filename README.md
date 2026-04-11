@@ -9,7 +9,7 @@
 
 *Password for public viewing = public* 
 
-Note: the application sleeps between runs to save compute budget so it takes 2-3 seconds to load up outside these runtimes.
+Note: the application sleeps between runs to save compute budget. It takes 2-3 seconds to load up outside these runtimes.
 
 ## What Is This?
 
