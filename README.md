@@ -5,7 +5,7 @@
 ---
 ### SEE IT HERE 
 
-[https://reversion-afab32929037.herokuapp.com/dashboard/]([https://reversion-afab32929037.herokuapp.com/dashboard/) 
+[https://reversion-afab32929037.herokuapp.com/dashboard/](https://reversion-afab32929037.herokuapp.com/dashboard/) 
 
 *Password for public viewing = public* 
 
